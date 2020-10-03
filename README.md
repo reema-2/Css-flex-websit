@@ -2,6 +2,9 @@
 
 This website was built as a project for the Udemy Advanced CSS and Sass course. The purpose of the project is to demonstrate understanding of Flexbox.
 
+### Demo:
+https://flex-re.netlify.app/
+
 ### Technologies used:
  - HTML
  - SCSS
